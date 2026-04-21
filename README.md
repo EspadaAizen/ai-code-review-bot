@@ -11,4 +11,8 @@ An AI-powered GitHub bot that automatically reviews pull requests, detects bugs,
 
 ## Status
 🚧 In Progress (Day 1 Completed)
+<<<<<<< HEAD
 Testing webhook PR 🚀
+=======
+Testing webhook PR 🚀
+>>>>>>> 446e37593196872c9d943924eabd3ea47e5e2667
